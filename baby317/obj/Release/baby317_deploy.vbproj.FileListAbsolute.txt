@@ -1,0 +1,15 @@
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\bin\Release\baby317.exe.config
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\bin\Release\baby317.exe
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\bin\Release\baby317.pdb
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\bin\Release\baby317.xml
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\bin\Release\baby317_lib.dll
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\bin\Release\baby317_lib.pdb
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\bin\Release\baby317_lib.xml
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\obj\Release\baby317_deploy.vbprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\obj\Release\baby317.frmDeploy.resources
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\obj\Release\baby317.Resources.resources
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\obj\Release\baby317_deploy.vbproj.GenerateResource.Cache
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\obj\Release\baby317_deploy.vbproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\obj\Release\baby317.exe
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\obj\Release\baby317.xml
+C:\Users\Adam\Documents\Computer Science\baby317\baby317\obj\Release\baby317.pdb

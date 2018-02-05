@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+baby317_maint
+</name>
+</assembly>
+<members>
+<member name="T:baby317_maint.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:baby317_maint.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:baby317_maint.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:baby317_maint.dbroyannDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:baby317_maint.dbroyannDataSet.tbl_MAINDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:baby317_maint.dbroyannDataSet.tbl_MAINRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:baby317_maint.dbroyannDataSet.tbl_MAINRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:baby317_maint.dbroyannDataSetTableAdapters.tbl_MAINTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:baby317_maint.dbroyannDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:baby317_maint.dbroyannDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(baby317_maint.dbroyannDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:baby317_maint.dbroyannDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(baby317_maint.dbroyannDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:baby317_maint.dbroyannDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(baby317_maint.dbroyannDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:baby317_maint.dbroyannDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:baby317_maint.dbroyannDataSetTableAdapters.TableAdapterManager.UpdateAll(baby317_maint.dbroyannDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:baby317_maint.dbroyannDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:baby317_maint.dbroyannDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

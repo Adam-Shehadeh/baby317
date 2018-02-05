@@ -1,0 +1,10 @@
+C:\Users\Adam\Documents\Computer Science\baby317\baby317_lib\bin\Debug\baby317_lib.dll
+C:\Users\Adam\Documents\Computer Science\baby317\baby317_lib\bin\Debug\baby317_lib.pdb
+C:\Users\Adam\Documents\Computer Science\baby317\baby317_lib\bin\Debug\baby317_lib.xml
+C:\Users\Adam\Documents\Computer Science\baby317\baby317_lib\obj\Debug\baby317_lib.vbprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Computer Science\baby317\baby317_lib\obj\Debug\baby317_lib.Resources.resources
+C:\Users\Adam\Documents\Computer Science\baby317\baby317_lib\obj\Debug\baby317_lib.vbproj.GenerateResource.Cache
+C:\Users\Adam\Documents\Computer Science\baby317\baby317_lib\obj\Debug\baby317_lib.vbproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\Computer Science\baby317\baby317_lib\obj\Debug\baby317_lib.dll
+C:\Users\Adam\Documents\Computer Science\baby317\baby317_lib\obj\Debug\baby317_lib.xml
+C:\Users\Adam\Documents\Computer Science\baby317\baby317_lib\obj\Debug\baby317_lib.pdb
